@@ -1,6 +1,7 @@
 # Dosa shop
 
-## Egg dosa
+
+# egg dosa
 dosa batter
-2 eggs
-oil
+3/2 eggs added
+oil and karam
